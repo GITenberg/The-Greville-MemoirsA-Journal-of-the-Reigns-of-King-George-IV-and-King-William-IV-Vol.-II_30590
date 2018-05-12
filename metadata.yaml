@@ -1,0 +1,37 @@
+_repo: The-Greville-MemoirsA-Journal-of-the-Reigns-of-King-George-IV-and-King-William-IV-Vol.-II_30590
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Greville, Charles
+    alias: Greville, Charles Cavendish Fulke
+    birthdate: 1794
+    deathdate: 1865
+    gutenberg_agent_id: '26534'
+    url: http://www.gutenberg.org/2009/agents/26534
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Cavendish_Fulke_Greville
+  editor:
+    agent_name: Reeve, Henry
+    alias: Reeves, Henry
+    birthdate: 1813
+    deathdate: 1895
+    gutenberg_agent_id: '7359'
+    url: http://www.gutenberg.org/2009/agents/7359
+description: ''
+gutenberg_issued: '2009-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30590'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- William IV, 1830-1837'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- George IV, 1820-1830'
+title: "The Greville Memoirs, Part 1 (of 3), Volume 2 (of 3)\r\nA Journal of the Reigns\
+  \ of King George IV and King William IV"
+url: http://www.gutenberg.org/ebooks/30590
